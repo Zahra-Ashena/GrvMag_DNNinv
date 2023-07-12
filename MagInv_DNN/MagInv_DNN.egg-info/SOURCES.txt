@@ -1,0 +1,5 @@
+setup.py
+MagInv_DNN.egg-info/PKG-INFO
+MagInv_DNN.egg-info/SOURCES.txt
+MagInv_DNN.egg-info/dependency_links.txt
+MagInv_DNN.egg-info/top_level.txt
