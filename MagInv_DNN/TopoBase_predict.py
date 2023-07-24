@@ -9,13 +9,13 @@ Date: July 2023
 
 """
 # %%
-from ForwardModel2D_MaG import MAGNETIC
 from tensorflow import keras
 import numpy as np
 from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
-from RandomModels2D import TopographyRand
+from Mag_SimData.ForwardModel2D_MaG import MAGNETIC
+from Mag_SimData.RandomModels2D import TopographyRand
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import Normalizer
 import matplotlib.gridspec as gridspec
